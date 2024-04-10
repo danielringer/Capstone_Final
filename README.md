@@ -75,7 +75,7 @@ Target variable: arr_delay
 
 ![ridge_lasso_bar](https://github.com/danielringer/Capstone_20/assets/61809794/bce396ac-a3c7-42d7-961c-441a0e3796f8)
 
-The Ridge Regression model barely beat out the Ridge Regression model with an MSE of 324 and R-Squared of .84.
+The Ridge Regression model barely beat out the Lasso Regression model with an MSE of 324 and R-Squared of .84.
 
 **Data Improvement**
 Using information derived from FAA.gov, we took the target variable, arr_delay, and created four categories to include, on time, General Delay, Moderate Delay, and Severe Delay.
